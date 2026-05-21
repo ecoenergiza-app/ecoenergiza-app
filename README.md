@@ -1,122 +1,170 @@
-<h1 align="center">EcoEnergiza</h1>
+# ⚡ EcoEnergiza
 
-<p align="center">
-Intelligent Energy Infrastructure
+<div align="center">
+
+### Intelligent Infrastructure for Energy, Sustainability and Operational Intelligence
+
+<p>
+Building next-generation digital infrastructure for real-world operations.
 </p>
 
-<p align="center">
-Telemetry • Sustainability • Operational Intelligence • Smart Energy
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=EcoEnergiza&fontAlign=50&fontAlignY=40&color=0:0f172a,50:14532d,100:22c55e&fontColor=ffffff&animation=fadeIn&desc=Smart%20Energy%20%7C%20Telemetry%20%7C%20Cloud%20Infrastructure&descAlignY=65&descSize=18" />
+
+<br>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-Edge%20Infrastructure-f97316?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telemetry-Real--time-16a34a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sustainability-Driven-22c55e?style=for-the-badge" />
 </p>
+
+</div>
 
 ---
 
 ## About
 
-EcoEnergiza is a technology company focused on building intelligent digital infrastructure for energy management, sustainability and operational efficiency.
+EcoEnergiza is a technology company focused on intelligent infrastructure, sustainability and operational telemetry.
 
-Our platform combines real-time telemetry, cloud infrastructure, data analytics and automation to help organizations monitor, optimize and scale energy operations.
+The platform combines cloud-native systems, real-time communication, distributed telemetry and automation to create scalable and resilient operational environments.
 
-Originally established through the legacy ecosystem of Ecolote, EcoEnergiza represents the evolution of digital solutions for modern infrastructure and sustainable operations.
-
----
-
-## Mission
-
-Build the next generation of intelligent energy operations through scalable and resilient technology.
+Originally evolving from the legacy ecosystem of Ecolote, EcoEnergiza represents a new technological phase focused on innovation, operational intelligence and modern infrastructure.
 
 ---
 
-## Core Areas
+## Vision
 
-- Energy Management
-- Operational Telemetry
-- Smart Monitoring
-- Sustainability Intelligence
-- Infrastructure Automation
-- Real-time Analytics
-- IoT Integrations
-- Cloud-native Systems
+We believe the future of infrastructure will be:
+
+* Intelligent
+* Connected
+* Distributed
+* Autonomous
+* Sustainable
+
+EcoEnergiza exists to accelerate this transformation.
 
 ---
 
-## Platform Capabilities
+## Core Ecosystem
 
-### Real-time Monitoring
-Continuous operational visibility through telemetry and event-driven infrastructure.
+<table>
+<tr>
+<td width="33%">
 
-### Intelligent Analytics
-Data processing and operational insights designed for modern energy environments.
+### ⚡ Smart Energy
 
-### Automation
-Automation pipelines for operational workflows, monitoring and integrations.
+Operational visibility, energy intelligence and real-time monitoring.
 
-### Cloud Infrastructure
-Scalable architecture designed for reliability, observability and resilience.
+</td>
+<td width="33%">
+
+### 📡 Telemetry
+
+Distributed telemetry and event-driven operational systems.
+
+</td>
+<td width="33%">
+
+### 🌎 Sustainability
+
+Technology designed for efficient and sustainable operations.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Platform Architecture
+
+```mermaid
+flowchart LR
+
+A[IoT Devices] --> B[Telemetry Layer]
+B --> C[Edge Infrastructure]
+C --> D[Operational Platform]
+D --> E[Analytics & Intelligence]
+E --> F[Automation & Monitoring]
+```
 
 ---
 
 ## Technology Stack
 
-- Cloudflare
-- Kubernetes
-- Laravel
-- Flutter
-- Go
-- TypeScript
-- MQTT
-- Kafka
-- Redis
-- PostgreSQL
-- MySQL
+```txt
+Cloudflare
+Kubernetes
+Laravel
+Flutter
+Go
+TypeScript
+Kafka
+MQTT
+Redis
+PostgreSQL
+MySQL
+```
 
 ---
 
 ## Engineering Principles
 
-- Scalability by Design
-- Operational Simplicity
-- Security First
-- Edge-native Architecture
-- Reliability and Resilience
-- Sustainable Technology
+* Cloud-native Architecture
+* Edge-first Infrastructure
+* Real-time Operations
+* Scalability by Design
+* Reliability & Resilience
+* Sustainable Technology
+* Operational Simplicity
 
 ---
 
-## Infrastructure Vision
+## Innovation
 
-EcoEnergiza is designed around distributed infrastructure principles, enabling resilient operations, intelligent monitoring and scalable service orchestration.
+EcoEnergiza is designed around modern infrastructure concepts:
 
-The platform architecture focuses on:
+* Event-driven systems
+* Distributed communication
+* Real-time telemetry
+* Edge computing
+* Intelligent automation
+* Operational analytics
 
-- Event-driven systems
-- Edge computing
-- Real-time communication
-- Distributed telemetry
-- Cloud-native operations
-
----
-
-## Sustainability
-
-We believe technology should contribute to more efficient and sustainable infrastructure operations.
-
-Our solutions aim to reduce operational waste, improve visibility and increase energy efficiency through data-driven decision making.
+Our mission is to transform operational complexity into intelligent infrastructure.
 
 ---
 
 ## Organization
 
-This GitHub organization contains internal projects, infrastructure components, platform services and research initiatives related to the EcoEnergiza ecosystem.
+This GitHub organization contains:
+
+* Internal platforms
+* Infrastructure services
+* Telemetry systems
+* Automation pipelines
+* Mobile applications
+* Research initiatives
+* Cloud-native components
 
 ---
 
-## Contact
+## Links
 
-- Website: https://ecolote.com.br
-- Organization: https://github.com/ecoenergiza-app
+🌐 Website
+[https://ecoenergiza.com.br](https://ecoenergiza.com.br)
+
+📦 GitHub Organization
+[https://github.com/ecoenergiza-app](https://github.com/ecoenergiza-app)
 
 ---
 
-<p align="center">
-Building intelligent infrastructure for the future of energy.
-</p>
+<div align="center">
+
+### Building intelligent infrastructure for a sustainable future.
+
+</div>
